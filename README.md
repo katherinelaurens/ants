@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello World. I'm kat and this is milo and i like ants.
 
 You can use the [editor on GitHub](https://github.com/katherinelaurens/ants/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
